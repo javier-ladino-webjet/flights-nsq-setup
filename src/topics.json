@@ -1,0 +1,104 @@
+{
+    "topics": [
+        {
+            "channels": [
+                {
+                    "name": "TT",
+                    "paused": false
+                }
+            ],
+            "name": "lcc_flight_request",
+            "paused": false
+        },
+        {
+            "channels": [
+                {
+                    "name": "JQ",
+                    "paused": false
+                },
+                {
+                    "name": "TT",
+                    "paused": false
+                },
+                {
+                    "name": "TR",
+                    "paused": false
+                }
+            ],
+            "name": "findflights_wjau_request",
+            "paused": false
+        },
+        {
+            "channels": [
+                {
+                    "name": "TT",
+                    "paused": false
+                },
+                {
+                    "name": "5J",
+                    "paused": false
+                },
+                {
+                    "name": "tripservices",
+                    "paused": false
+                },
+                {
+                    "name": "JQ",
+                    "paused": false
+                },
+                {
+                    "name": "AK",
+                    "paused": false
+                },
+                {
+                    "name": "tripservicesndc",
+                    "paused": false
+                },
+                {
+                    "name": "TR",
+                    "paused": false
+                },
+                {
+                    "name": "response_chanel",
+                    "paused": false
+                },
+                {
+                    "name": "allianceairlines",
+                    "paused": false
+                },
+                {
+                    "name": "tripninja",
+                    "paused": false
+                }
+            ],
+            "name": "flights_wjau_request",
+            "paused": false
+        },
+        {
+            "channels": [
+                {
+                    "name": "response_chanel",
+                    "paused": false
+                }
+            ],
+            "name": "flights_wjau_response",
+            "paused": false
+        },
+        {
+            "channels": [],
+            "name": "lcc_flight_response",
+            "paused": false
+        },
+        {
+            "channels": [
+                {
+                    "name": "JQ",
+                    "paused": false
+                }
+            ],
+            "name": "search_request",
+            "paused": false
+        }
+    ],
+    "version": "1.0.0-compat"
+}
